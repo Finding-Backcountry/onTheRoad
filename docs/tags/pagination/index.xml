@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>pagination on Fire Across America</title>
-    <link>https://example.org/tags/pagination/</link>
+    <link>https://finding-backcountry.github.io/onTheRoad/tags/pagination/</link>
     <description>Recent content in pagination on Fire Across America</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Aug 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/pagination/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Aug 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://finding-backcountry.github.io/onTheRoad/tags/pagination/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>California</title>
-      <link>https://example.org/2014/08/california/</link>
+      <link>https://finding-backcountry.github.io/onTheRoad/2014/08/california/</link>
       <pubDate>Fri, 15 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2014/08/california/</guid>
+      <guid>https://finding-backcountry.github.io/onTheRoad/2014/08/california/</guid>
       <description>&lt;p&gt;This post is used to show how a site looks if the pagination is hidden.&lt;/p&gt;</description>
     </item>
     
