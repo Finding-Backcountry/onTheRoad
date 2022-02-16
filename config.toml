@@ -12,10 +12,10 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://findingbatcountry.github.io/onTheRoad/"
+baseURL = "https://www.starjunkies.com"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Fire Across America"
+title = "Star Junkies"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -44,9 +44,9 @@ canonifyurls = true
 # Author
 # ------
 [author]
-  name = "Bari"
-  bio = "Insert Joke here!"
-  job = "Storyteller MF"
+  name = "Raul and Micky"
+  bio = "Degenerates in their purest form across the great South West!"
+  job = "World Travelers"
   location = "Bat Country"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "michael@chayev.com"
