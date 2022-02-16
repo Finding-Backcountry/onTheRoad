@@ -44,12 +44,12 @@ canonifyurls = true
 # Author
 # ------
 [author]
-  name = "Raul and Micky"
-  bio = "Degenerates in their purest form across the great South West!"
+  name = "Raul and Mickey"
+  bio = "Degenerates in their purest form roaming the great South West!"
   job = "World Travelers"
   location = "Bat Country"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "michael@chayev.com"
+  gravatarEmail = "team@starjunkies.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-31.jpg"
